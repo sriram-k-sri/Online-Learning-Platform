@@ -25,7 +25,7 @@ const NavBar = ({ setSelectedComponent }) => {
       <Navbar expand="lg" className="bg-body-tertiary">
          <Container fluid>
             <Navbar.Brand>
-               <h3>Study App</h3>
+               <h3>Course Cloud</h3>
             </Navbar.Brand>
             <Navbar.Toggle aria-controls="navbarScroll" />
             <Navbar.Collapse id="navbarScroll">
